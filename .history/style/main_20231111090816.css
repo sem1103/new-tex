@@ -1,0 +1,8 @@
+.container{
+    max-width: 1500px;
+    margin: auto;
+}
+#header__wrapper{
+    min-height: 100vh;
+    background: url(../img/intro-bg.png) center/cover;
+}
